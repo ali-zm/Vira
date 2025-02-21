@@ -1,0 +1,4 @@
+To transfer data from DB into your WooCommerce first data will be fetched from DB. To do so, firstly enter 
+username and password to get access into database. Also URL of your WooCommerce shop is required. e.g. https://example.com/wordpress/
+You need to use the consumer-key and consumer-secret: WooCommerce-> setteing-> advanced-> REST API 
+ Note: while creating your API KEY be sure you have given write/read access.
